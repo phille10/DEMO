@@ -1,3 +1,3 @@
 # DEMO
 Learning the ropes
-Isn't this going well? Figuring things out.
+Isn't this going well?
