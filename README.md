@@ -1,3 +1,3 @@
 # DEMO
 Learning the ropes
-Isn't this going well?
+Working on cloning now.
